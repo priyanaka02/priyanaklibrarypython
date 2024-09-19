@@ -17,16 +17,10 @@ Python can be used in database applications.
 3. MySQL
 *  is one of the most common open source databases for storing Python web applications' data.
 
-![admin](https://user-images.githubusercontent.com/73725029/109415230-cd94f700-79b7-11eb-9869-e345a1e575cd.png)
-
-
 4. The Library Management System will have the following listed features:
 
 * Book  Management
 * student Management
-
-![welcome](https://user-images.githubusercontent.com/73725029/109415260-f4ebc400-79b7-11eb-817b-63c3c142b906.png)
-
 
 5. Book Catalogue Management
 
