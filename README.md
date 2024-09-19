@@ -28,7 +28,6 @@ Python can be used in database applications.
 * Edit new Book
 * Delete new Book
 
-![book real](https://user-images.githubusercontent.com/73725029/109415247-e4d3e480-79b7-11eb-9900-26b9a435d5c6.png)
 
 6. Book Catagories Management
 
@@ -43,8 +42,6 @@ Python can be used in database applications.
 8. Users Managment
 
 * Ability to create, edit and remove user
-
-![book 1](https://user-images.githubusercontent.com/73725029/109415290-21074500-79b8-11eb-880d-8e8d72d7fcd5.png)
 
 
 9. Book Transactions
